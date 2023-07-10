@@ -9,10 +9,6 @@
 		"/dev/bus/usb:/dev/bus/usb",
 		"--network=host"
 	],
-	"forwardPorts": [
-		19000,
-		19001
-	],
 	"customizations": {
 		"vscode": {
 			"extensions": [
